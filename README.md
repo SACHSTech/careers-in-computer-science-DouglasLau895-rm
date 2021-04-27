@@ -85,3 +85,13 @@ Video game developers commonly require a bachelor’s degree in game development
 * University of Waterloo CCC (Canadian Computing Competition)
 * ACM International Collegiate Programming Contest (ICPC)
 * Microsoft Q# Coding Contest
+
+### Internships and Job Shadowing Opportunities
+* Game Developer Intern - Scientific Games 
+* Game Design Intern - Rocket League 
+* Programming Intern - Obsidian Entertainment 
+
+### Building Up Non-technical Skills
+* Collaboration Workshop for Product Design and Development
+* Tutoring opportunities 
+* Many Universities offer leadership, collaboration, and project management workshops for free to students!
