@@ -26,3 +26,10 @@ Video game developers commonly require a bachelor’s degree in game development
 * Problem-solving Skills
 * Organization Skills
 * Teamwork and Collaboration Skills
+
+---
+### Salary Range
+| Minimum | Median | Maximum |
+|:-------:|:------:|:-------:|
+| $40k    | $86k   | $59k    |
+
