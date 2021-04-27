@@ -43,3 +43,14 @@ Video game developers commonly require a bachelor’s degree in game development
   * Any Grade 12 U English (ENG4U or EWC4U)
   * One other 4U course of choice
 * Recommended: Grade 11 U Introduction to Computer Science (ICS3U)
+
+**First Year Program Courses**
+
+**`CS 135 - Designing Functional Programs`**
+> An introduction to the fundamentals of computer science through the application of elementary programming patterns in the functional style of programming. Syntax and semantics of a functional programming language. Tracing via substitution. Design, testing, and documentation. Linear and nonlinear data structures. Recursive data definitions. Abstraction and encapsulation. Generative and structural recursion. Historical context.
+
+**`MATH 135 - Algebra`**
+> An introduction to the language of mathematics and proof techniques through a study of the basic algebraic systems of mathematics: the integers, the integers modulo n, the rational numbers, the real numbers, the complex numbers and polynomials.
+
+**`MATH 137 - Calculus 1`**
+> Absolute values and inequalities. Sequences and their limits. Introduction to series. Limits of functions and continuity. The Intermediate Value theorem and approximate solutions to equations. Derivatives, linear approximation, and Newton's method. The Mean Value theorem and error bounds. Applications of the Mean Value theorem, Taylor polynomials and Taylor's theorem, Big-O notation. Suitable topics are illustrated using computer software.
