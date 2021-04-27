@@ -1,4 +1,5 @@
 # Careers in Computer Science: Video Game Developer
+![alt text](https://image.flaticon.com/icons/png/512/1622/1622508.png)
 
 ## 1.1 Basics
 
@@ -26,8 +27,8 @@ Video game developers commonly require a bachelor’s degree in game development
 | Storyline Design | Teamwork and Collaboration Skills |
 
 ---
-### Salary Range
-(per year)
+### Salary Range (Per Year)
+![alt text](https://img.icons8.com/bubbles/2x/money.png)
 
 | Minimum | Median | Maximum |
 |:-------:|:------:|:-------:|
@@ -36,6 +37,8 @@ Video game developers commonly require a bachelor’s degree in game development
 ---
 ## 1.2 Standard Education
 ### University of Waterloo: Computer Science Undergraduate Program
+
+![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png)
 
 **Prerequisites:**
 * Six Grade 12 U and/or M courses including: 
@@ -75,6 +78,7 @@ Video game developers commonly require a bachelor’s degree in game development
 
 ---
 ## Experiential Learning
+![alt text](https://gradepowerlearning.com/wp-content/uploads/2015/10/icon-memory-retention.png)
 
 ### Self-Starter Projects
 * Simple Calculator
