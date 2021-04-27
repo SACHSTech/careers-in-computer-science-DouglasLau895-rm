@@ -114,3 +114,18 @@ Video game developers commonly require a bachelor’s degree in game development
 * Self-driven with the ability to take responsibility for your own work
 
 ---
+### [Game Pill (Mid Level Position)](https://ca.indeed.com/Game-Developer-jobs-in-Toronto,-ON?vjk=df94e54cb3ddb9df)
+**Salary:** $45k per year
+
+**City:** Concord, Ontario 
+
+**Job Description:** The Video Game Programmer will be responsible for working on core game mechanics, tools and infrastructure, and providing valuable insight into all aspects of the game production process.
+
+**Additional Skills or Experience Required: **
+* Understanding of current mobile device networking, memory management, security and performance capabilities
+* Passion, curiosity and strong knowledge for games and mobile applications
+* Ability to work under pressure, strong organization, attention to detail and great documentation skills
+* Has implemented saved game data, like player progress, in a structured and extensible format like JSON or XML
+* Has at least 3 games in a portfolio for assessment
+
+---
