@@ -34,7 +34,7 @@ Video game developers commonly require a bachelor’s degree in game development
 | $40k    | $86k   | $59k    |
 
 ---
-### University of Waterloo: Computer Science Program
+### University of Waterloo: Computer Science Undergraduate Program
 
 **Prerequisites: **
 * Six Grade 12 U and/or M courses including: 
@@ -65,3 +65,8 @@ Video game developers commonly require a bachelor’s degree in game development
 > Introduction to the Riemann integral and approximations. Antiderivatives and the fundamental theorem of calculus. Change of variables, methods of integration. Applications of the integral. Improper integrals. Linear and separable differential equations and applications. Tests for convergence for series. Binomial series, functions defined as power series and Taylor series. Vector (parametric) curves in R2. Suitable topics are illustrated using computer software.
 
 **`Two years of paid work experience through University of Waterloo co-op program`**
+
+**Length Of Time Required For This Program**
+
+**`4 years`**
+
