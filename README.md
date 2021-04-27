@@ -16,16 +16,14 @@ Video game developers work in teams to plan, design, produce, debug, and maintai
 Video game developers commonly require a bachelor’s degree in game development, computer science, or game design. Through a undergraduate degree, video game designers should become proficient in some programming languages such as java, C# or C++. A master’s degree in these areas can help video game developers stand out and advance to lead developer positions. 
 
 ---
-### Technical Skills
-* Programming
-  * Proficiency with at least one programing language
-* 2D and 3D Design 
+### Technical and Non-Technical Skills
 
-### Non-Technical Skills
-* Analytical Thinking
-* Problem-solving Skills
-* Organization Skills
-* Teamwork and Collaboration Skills
+| Technical Skills | Non-Technical Skills |
+|:----------------:|:--------------------:|
+| Programming      | Analytical Thinking  |
+| Proficiency with a programming language | Problem-solving Skills |
+| 2D and 3D Design | Organization Skills |
+| Storyline Writing | Teamwork and Collaboration Skills |
 
 ---
 ### Salary Range
@@ -66,9 +64,9 @@ Video game developers commonly require a bachelor’s degree in game development
 **`MATH 138 - Calculus 2`**
 > Introduction to the Riemann integral and approximations. Antiderivatives and the fundamental theorem of calculus. Change of variables, methods of integration. Applications of the integral. Improper integrals. Linear and separable differential equations and applications. Tests for convergence for series. Binomial series, functions defined as power series and Taylor series. Vector (parametric) curves in R2. Suitable topics are illustrated using computer software.
 
----
 **`Two years of paid work experience through University of Waterloo co-op program`**
 
+---
 **Length Of Time Required For This Program**
 
 **`4 years`**
@@ -96,3 +94,7 @@ Video game developers commonly require a bachelor’s degree in game development
 * [Collaboration Workshop for Product Design and Development](https://www.oreilly.com/attend/leading-collaborative-workshops-for-product-design-development/0636920128557/0636920166245/)
 * [Tutoring opportunities](https://www.workopolis.com/jobsearch/tutor-jobs/markham-ontario?job=vQCa3z63uOIJ4g74cZtojdqf6rG8oUcxLOEWXkgtuK1dvLffackx5Q)
 * Many Universities offer leadership, collaboration, and project management workshops for free to students!
+
+## 1.4 Real jobs
+
+### Pocket Pinata Interactive (Entry Level Position)
