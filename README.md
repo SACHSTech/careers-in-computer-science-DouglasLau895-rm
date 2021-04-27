@@ -115,7 +115,7 @@ Video game developers commonly require a bachelor’s degree in game development
 
 **Job Description:** Are you passionate about mobile games? Do you like to deconstruct games and figure out what makes them tick? Wappworks Studio is looking for a driven, enthusiastic Junior Game Designer with an understanding of gameplay, F2P monetization and progression systems to help us with our internal and client-based projects. 
 
-**Additional Skills or Experience Required: **
+**Additional Skills or Experience Required:**
 * Passionate about mobile games of all genres
 * Great imagination with strong design sensibilities
 * Excellent oral and written communication skills
@@ -134,7 +134,7 @@ Video game developers commonly require a bachelor’s degree in game development
 
 **Job Description:** The Video Game Programmer will be responsible for working on core game mechanics, tools and infrastructure, and providing valuable insight into all aspects of the game production process.
 
-**Additional Skills or Experience Required: **
+**Additional Skills or Experience Required:**
 * Understanding of current mobile device networking, memory management, security and performance capabilities
 * Passion, curiosity and strong knowledge for games and mobile applications
 * Ability to work under pressure, strong organization, attention to detail and great documentation skills
@@ -153,7 +153,7 @@ Video game developers commonly require a bachelor’s degree in game development
 
 **Job Description:** If you are an experienced programmer with a passion for games then this is the opportunity you have been looking for! As a recent startup, Star Fort is an exciting place to work with a lot of opportunity for growth. You will have the opportunity to work on a diverse range of challenges, solve interesting problems, be creative, and help define and build a new top-tier game studio in Ottawa.
 
-**Additional Skills or Experience Required: **
+**Additional Skills or Experience Required:**
 * Skilled in Unity and C#
 * Experience with MVC architecture
 * Experience working with UX teams and integrating graphic design
