@@ -54,3 +54,14 @@ Video game developers commonly require a bachelor’s degree in game development
 
 **`MATH 137 - Calculus 1`**
 > Absolute values and inequalities. Sequences and their limits. Introduction to series. Limits of functions and continuity. The Intermediate Value theorem and approximate solutions to equations. Derivatives, linear approximation, and Newton's method. The Mean Value theorem and error bounds. Applications of the Mean Value theorem, Taylor polynomials and Taylor's theorem, Big-O notation. Suitable topics are illustrated using computer software.
+
+**`CS 136 - Algorithm Design and Data Abstraction`**
+> This course builds on the techniques and patterns learned in CS 135 while making the transition to use an imperative language. It introduces the design and analysis of algorithms, the management of information, and the programming mechanisms and methodologies required in implementations. Topics discussed include iterative and recursive sorting algorithms; lists, stacks, queues, trees, and their application; abstract data types and their implementations.
+
+**`MATH 136 - Linear Algebra 1`**
+> Systems of linear equations, matrix algebra, elementary matrices, computational issues. Real n-space, vector spaces and subspaces, basis and dimension, rank of a matrix, linear transformations, and matrix representations. Determinants, eigenvalues and diagonalization, applications.
+
+**`MATH 138 - Calculus 2`**
+> Introduction to the Riemann integral and approximations. Antiderivatives and the fundamental theorem of calculus. Change of variables, methods of integration. Applications of the integral. Improper integrals. Linear and separable differential equations and applications. Tests for convergence for series. Binomial series, functions defined as power series and Taylor series. Vector (parametric) curves in R2. Suitable topics are illustrated using computer software.
+
+**`Two years of paid work experience through University of Waterloo co-op program`**
