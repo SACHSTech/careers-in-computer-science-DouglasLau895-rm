@@ -1,6 +1,6 @@
-# Careers in Computer Science
+# Careers in Computer Science: Video Game Developer
 
-## Video Game Developer
+## 1.1 Basics
 
 ### Description of Career and Responsibilities
 Video game developers work in teams to plan, design, produce, debug, and maintain video games. They create everything that is part of a game from visual and audio content to the game’s features and functionality. Oftentimes, video game developers work with other people, which requires them to have a strong ability to collaborate well with others. 
@@ -34,9 +34,10 @@ Video game developers commonly require a bachelor’s degree in game development
 | $40k    | $86k   | $59k    |
 
 ---
+## 1.2 Standard Education
 ### University of Waterloo: Computer Science Undergraduate Program
 
-**Prerequisites: **
+**Prerequisites:**
 * Six Grade 12 U and/or M courses including: 
   * Advanced Functions (MHF4U)
   * Calculus and Vectors (MCV4U)
@@ -44,6 +45,7 @@ Video game developers commonly require a bachelor’s degree in game development
   * One other 4U course of choice
 * Recommended: Grade 11 U Introduction to Computer Science (ICS3U)
 
+---
 **First Year Program Courses**
 
 **`CS 135 - Designing Functional Programs`**
@@ -64,9 +66,13 @@ Video game developers commonly require a bachelor’s degree in game development
 **`MATH 138 - Calculus 2`**
 > Introduction to the Riemann integral and approximations. Antiderivatives and the fundamental theorem of calculus. Change of variables, methods of integration. Applications of the integral. Improper integrals. Linear and separable differential equations and applications. Tests for convergence for series. Binomial series, functions defined as power series and Taylor series. Vector (parametric) curves in R2. Suitable topics are illustrated using computer software.
 
+---
 **`Two years of paid work experience through University of Waterloo co-op program`**
 
 **Length Of Time Required For This Program**
 
 **`4 years`**
+
+---
+## Experiential Learning
 
