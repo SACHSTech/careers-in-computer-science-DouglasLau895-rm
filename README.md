@@ -11,3 +11,6 @@ Video game developers work in teams to plan, design, produce, debug, and maintai
 * Work with visual designers to **create 2D and 3D visuals models** and game assets
 * **Testing and debugging** a game using automated testing tools
 * Create **new features and continuously improving the game**. This may include adding add-ons, game packs, and updates. 
+---
+### Required Education
+Video game developers commonly require a bachelor’s degree in game development, computer science, or game design. Through a undergraduate degree, video game designers should become proficient in some programming languages such as java, C# or C++. A master’s degree in these areas can help video game developers stand out and advance to lead developer positions. 
