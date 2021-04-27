@@ -7,7 +7,7 @@
 ### Description of Career and Responsibilities
 Video game developers work in teams to plan, design, produce, debug, and maintain video games. They create everything that is part of a game from visual and audio content to the game’s features and functionality. Oftentimes, video game developers work with other people, which requires them to have a strong ability to collaborate well with others. 
 
-**A general outline of a Game Project includes: **
+**A general outline of a Game Project includes:**
 
 * **Planning** a game's storyline, characters, environment, activities, etc. 
 * Work with visual designers to **create 2D and 3D visuals models** and game assets
@@ -41,7 +41,7 @@ Video game developers commonly require a bachelor’s degree in game development
 ### University of Waterloo: Computer Science Undergraduate Program
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png" width="150">
 
-**Prerequisites:**
+**Prerequisites**
 * Six Grade 12 U and/or M courses including: 
   * Advanced Functions (MHF4U)
   * Calculus and Vectors (MCV4U)
