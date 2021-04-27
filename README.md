@@ -33,3 +33,13 @@ Video game developers commonly require a bachelor’s degree in game development
 |:-------:|:------:|:-------:|
 | $40k    | $86k   | $59k    |
 
+---
+### University of Waterloo: Computer Science Program
+
+**Prerequisites: **
+* Six Grade 12 U and/or M courses including: 
+  * Advanced Functions (MHF4U)
+  * Calculus and Vectors (MCV4U)
+  * Any Grade 12 U English (ENG4U or EWC4U)
+  * One other 4U course of choice
+* Recommended: Grade 11 U Introduction to Computer Science (ICS3U)
