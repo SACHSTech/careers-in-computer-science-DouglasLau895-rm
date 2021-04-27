@@ -79,7 +79,7 @@ Video game developers commonly require a bachelor’s degree in game development
 
 ---
 ## Experiential Learning
-<img src="https://img.icons8.com/bubbles/2x/money.png" width="150">
+<img src="https://gradepowerlearning.com/wp-content/uploads/2015/10/icon-memory-retention.png" width="150">
 
 ### Self-Starter Projects
 * Simple Calculator
@@ -104,7 +104,7 @@ Video game developers commonly require a bachelor’s degree in game development
 
 ## 1.4 Real jobs
 
-### [Pocket Pinata Interactive (Entry Level Position)](https://ca.indeed.com/Junior-Game-Developer-jobs?vjk=8d9312408e44c864)
+### [Pocket Pinata Interactive (Entry Level Position)](https://ca.indeed.com/Junior-Game-Developer-jobs?vjk=8d9312408e44c864) <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHYkWYHVaRneg/company-logo_200_200/0/1519866417637?e=2159024400&v=beta&t=Y_j6Q8Bm8FosIIP9q9_9vaJx9RY2vURx-4UVWScfLx0" width="150">
 **Entry Level Position: 1+ years** of mobile game design experience
 
 **Salary:** $40k per year
@@ -122,6 +122,8 @@ Video game developers commonly require a bachelor’s degree in game development
 
 ---
 ### [Game Pill (Mid Level Position)](https://ca.indeed.com/Game-Developer-jobs-in-Toronto,-ON?vjk=df94e54cb3ddb9df)
+<img src="https://media.glassdoor.com/sqll/992078/game-pill-squarelogo-1480690372655.png" width="150">
+
 **Mid Level position: 3+ years** of experience as a game programmer with Unity and C#
 
 **Salary:** $45k per year
@@ -139,6 +141,8 @@ Video game developers commonly require a bachelor’s degree in game development
 
 ---
 ### [Star Fort Games](https://ca.indeed.com/jobs?q=junior%20Game%20Programmer&l=ON&vjk=bf36771ec07787ed)
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQGvhkq48LQBdA/company-logo_200_200/0/1617895542206?e=2159024400&v=beta&t=qPfsMaFiuROqvQ0GRFv7sOeBtxsCP6-2sPDT44AXYtw" width="150">
+
 **Senior Level Position: 5+ years** of experience as a video game developer
 
 **Salary:** $80k - $100k per year
@@ -184,3 +188,16 @@ Star Fort Games, Senior Game Developer, [ca.indeed.com/jobs?q=junior%20Game%20Pr
 
 ## Images Works Cited
 
+“Experiential Learning For Children (With Activities &amp; Examples).” GradePower Learning, 28 May 2019, [gradepowerlearning.com/infographic-experiential-learning-children/](https://gradepowerlearning.com/infographic-experiential-learning-children/).
+
+Icons, Flat. “Game Developer Free Vector Icons Designed by Flat Icons.” Flaticon, [www.flaticon.com/free-icon/game-developer_1622508](https://www.flaticon.com/free-icon/game-developer_1622508).
+
+“Money Icons - Free Download, PNG and SVG.” Icons8, [icons8.com/icons/set/money](https://icons8.com/icons/set/mone).
+
+“Star Fort Games”, [ca.linkedin.com/company/star-fort-games](https://ca.linkedin.com/company/star-fort-games).
+
+“University of Waterloo.” Wikipedia, Wikimedia Foundation, 21 Apr. 2021, [en.wikipedia.org/wiki/University_of_Waterloo](https://en.wikipedia.org/wiki/University_of_Waterloo).
+
+“Wappworks Studio”, [ca.linkedin.com/company/wappworks-studio](https://ca.linkedin.com/company/wappworks-studio).
+
+“Working at Game Pill”, [www.glassdoor.ca/Overview/Working-at-Game-Pill-EI_IE992078.11,20.htm](https://www.glassdoor.ca/Overview/Working-at-Game-Pill-EI_IE992078.11,20.htm). 
