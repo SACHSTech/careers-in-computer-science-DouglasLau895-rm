@@ -129,3 +129,20 @@ Video game developers commonly require a bachelor’s degree in game development
 * Has at least 3 games in a portfolio for assessment
 
 ---
+### [Star Fort Games](https://ca.indeed.com/jobs?q=junior%20Game%20Programmer&l=ON&vjk=bf36771ec07787ed)
+
+**Salary:** $80k - $100k per year
+
+**City:** Ottawa, Ontario 
+
+**Job Description:** If you are an experienced programmer with a passion for games then this is the opportunity you have been looking for! As a recent startup, Star Fort is an exciting place to work with a lot of opportunity for growth. You will have the opportunity to work on a diverse range of challenges, solve interesting problems, be creative, and help define and build a new top-tier game studio in Ottawa.
+
+**Additional Skills or Experience Required: **
+* Skilled in Unity and C#
+* Experience with MVC architecture
+* Experience working with UX teams and integrating graphic design
+* Ability to optimize for performance on low-end devices
+* Knowledge of 3D, particle systems and shaders an assets
+* Knowledge of Git
+
+---
