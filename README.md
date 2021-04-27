@@ -104,7 +104,9 @@ Video game developers commonly require a bachelor’s degree in game development
 
 ## 1.4 Real jobs
 
-### [Pocket Pinata Interactive (Entry Level Position)](https://ca.indeed.com/Junior-Game-Developer-jobs?vjk=8d9312408e44c864) <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHYkWYHVaRneg/company-logo_200_200/0/1519866417637?e=2159024400&v=beta&t=Y_j6Q8Bm8FosIIP9q9_9vaJx9RY2vURx-4UVWScfLx0" width="150">
+### [Pocket Pinata Interactive (Entry Level Position)](https://ca.indeed.com/Junior-Game-Developer-jobs?vjk=8d9312408e44c864) 
+<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHYkWYHVaRneg/company-logo_200_200/0/1519866417637?e=2159024400&v=beta&t=Y_j6Q8Bm8FosIIP9q9_9vaJx9RY2vURx-4UVWScfLx0" width="150">
+
 **Entry Level Position: 1+ years** of mobile game design experience
 
 **Salary:** $40k per year
@@ -186,6 +188,7 @@ Pocket Pinata Interactive, Junior Game Designer, [ca.indeed.com/Junior-Game-Deve
 
 Star Fort Games, Senior Game Developer, [ca.indeed.com/jobs?q=junior%20Game%20Programmer&l=ON&vjk=bf36771ec07787ed](https://ca.indeed.com/jobs?q=junior%20Game%20Programmer&l=ON&vjk=bf36771ec07787ed). 
 
+---
 ## Images Works Cited
 
 “Experiential Learning For Children (With Activities &amp; Examples).” GradePower Learning, 28 May 2019, [gradepowerlearning.com/infographic-experiential-learning-children/](https://gradepowerlearning.com/infographic-experiential-learning-children/).
