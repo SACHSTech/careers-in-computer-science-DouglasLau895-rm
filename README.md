@@ -157,26 +157,26 @@ Video game developers commonly require a bachelor’s degree in game development
 ---
 ## Works Cited
 
-“Average Video Game Programmer Salary in Canada.” PayScale, www.payscale.com/research/CA/Job=Video_Game_Programmer/Salary.
+“Average Video Game Programmer Salary in Canada.” PayScale, [www.payscale.com/research/CA/Job=Video_Game_Programmer/Salary](https://www.payscale.com/research/CA/Job=Video_Game_Programmer/Salary).
 
-“Computer Science.” Undergraduate Programs, 6 Apr. 2021, uwaterloo.ca/future-students/programs/computer-science.
+“Computer Science.” Undergraduate Programs, 6 Apr. 2021, [uwaterloo.ca/future-students/programs/computer-science](https://uwaterloo.ca/future-students/programs/computer-science).
 
-“Course Descriptions - Undergraduate Calendar 2021-2022.” Courses Mathematics, ucalendar.uwaterloo.ca/2122/COURSE/course-MATH.html#MATH138.
+“Course Descriptions - Undergraduate Calendar 2021-2022.” Courses Mathematics, [ucalendar.uwaterloo.ca/2122/COURSE/course-MATH.html#MATH138](https://ucalendar.uwaterloo.ca/2122/COURSE/course-MATH.html#MATH138).
 
-“Course Descriptions - Undergraduate Calendar 2021-2022.” Courses Computer Science, ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS135.
+“Course Descriptions - Undergraduate Calendar 2021-2022.” Courses Computer Science, [ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS135](https://ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS135).
 
-Design - Graphics, University of Waterloo. “Canadian Computing Competition - Computing Contests - University of Waterloo.” CEMC, www.cemc.uwaterloo.ca/contests/computing.html.
+Design - Graphics, University of Waterloo. “Canadian Computing Competition - Computing Contests - University of Waterloo.” CEMC, [www.cemc.uwaterloo.ca/contests/computing.html](https://www.cemc.uwaterloo.ca/contests/computing.html).
 
-“Game Developer Job Description.” JobHero, 20 July 2018, www.jobhero.com/job-description/examples/computer-software/game-developer.
+“Game Developer Job Description.” JobHero, 20 July 2018, [www.jobhero.com/job-description/examples/computer-software/game-developer](https://www.jobhero.com/job-description/examples/computer-software/game-developer).
 
-Game Pill, Video Game Developer, ca.indeed.com/Game-Developer-jobs-in-Toronto,-ON?vjk=df94e54cb3ddb9df.
+Game Pill, Video Game Developer, [ca.indeed.com/Game-Developer-jobs-in-Toronto,-ON?vjk=df94e54cb3ddb9df](https://ca.indeed.com/Game-Developer-jobs-in-Toronto,-ON?vjk=df94e54cb3ddb9df).
 
-Grant, Anthony, and Anthony Grant (41 Articles Published) “The 10 Best Beginner Projects for New Programmers.” MUO, 22 May 2020. www.makeuseof.com/tag/beginner-programming-projects/.
+Grant, Anthony, and Anthony Grant (41 Articles Published) “The 10 Best Beginner Projects for New Programmers.” MUO, 22 May 2020. [www.makeuseof.com/tag/beginner-programming-projects/](https://www.makeuseof.com/tag/beginner-programming-projects/).
 
-“ICPC.” The ICPC International Collegiate Programming Contest, icpc.global/.
+“ICPC.” The ICPC International Collegiate Programming Contest, [icpc.global/](https://icpc.global/).
 
-“Microsoft Q# Coding Contest.” Codeforces, codeforces.com/msqs2020.
+“Microsoft Q# Coding Contest.” Codeforces, [codeforces.com/msqs2020](https://codeforces.com/msqs2020).
 
-Pocket Pinata Interactive, Junior Game Designer, ca.indeed.com/Junior-Game-Developer-jobs?vjk=8d9312408e44c864.
+Pocket Pinata Interactive, Junior Game Designer, [ca.indeed.com/Junior-Game-Developer-jobs?vjk=8d9312408e44c864](https://ca.indeed.com/Junior-Game-Developer-jobs?vjk=8d9312408e44c864).
 
-Star Fort Games, Senior Game Developer, ca.indeed.com/jobs?q=junior%20Game%20Programmer&l=ON&vjk=bf36771ec07787ed. 
+Star Fort Games, Senior Game Developer, [ca.indeed.com/jobs?q=junior%20Game%20Programmer&l=ON&vjk=bf36771ec07787ed](https://ca.indeed.com/jobs?q=junior%20Game%20Programmer&l=ON&vjk=bf36771ec07787ed). 
