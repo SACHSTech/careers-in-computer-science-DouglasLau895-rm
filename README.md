@@ -14,3 +14,15 @@ Video game developers work in teams to plan, design, produce, debug, and maintai
 ---
 ### Required Education
 Video game developers commonly require a bachelor’s degree in game development, computer science, or game design. Through a undergraduate degree, video game designers should become proficient in some programming languages such as java, C# or C++. A master’s degree in these areas can help video game developers stand out and advance to lead developer positions. 
+
+---
+### Technical Skills
+* Programming
+  * Proficiency with at least one programing language
+* 2D and 3D Design 
+
+### Non-Technical Skills
+* Analytical Thinking
+* Problem-solving Skills
+* Organization Skills
+* Teamwork and Collaboration Skills
