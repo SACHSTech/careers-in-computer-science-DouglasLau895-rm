@@ -23,10 +23,12 @@ Video game developers commonly require a bachelor’s degree in game development
 | Programming      | Analytical Thinking  |
 | Proficiency with a programming language | Problem-solving Skills |
 | 2D and 3D Design | Organization Skills |
-| Storyline Writing | Teamwork and Collaboration Skills |
+| Storyline Design | Teamwork and Collaboration Skills |
 
 ---
 ### Salary Range
+(per year)
+
 | Minimum | Median | Maximum |
 |:-------:|:------:|:-------:|
 | $40k    | $86k   | $59k    |
@@ -97,4 +99,18 @@ Video game developers commonly require a bachelor’s degree in game development
 
 ## 1.4 Real jobs
 
-### Pocket Pinata Interactive (Entry Level Position)
+### [Pocket Pinata Interactive (Entry Level Position)](https://ca.indeed.com/Junior-Game-Developer-jobs?vjk=8d9312408e44c864)
+**Salary:** $40k per year
+
+**City:** Burnaby, British Columbia
+
+**Job Description:** Are you passionate about mobile games? Do you like to deconstruct games and figure out what makes them tick? Wappworks Studio is looking for a driven, enthusiastic Junior Game Designer with an understanding of gameplay, F2P monetization and progression systems to help us with our internal and client-based projects. 
+
+**Additional Skills or Experience Required: **
+* Passionate about mobile games of all genres
+* Great imagination with strong design sensibilities
+* Excellent oral and written communication skills
+* Strong analytical skills
+* Self-driven with the ability to take responsibility for your own work
+
+---
