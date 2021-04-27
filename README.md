@@ -1,6 +1,8 @@
 # Careers in Computer Science: Video Game Developer
 ![alt text](https://image.flaticon.com/icons/png/512/1622/1622508.png)
 
+<img src="https://image.flaticon.com/icons/png/512/1622/1622508.png" width="100">
+
 ## 1.1 Basics
 
 ### Description of Career and Responsibilities
@@ -12,6 +14,7 @@ Video game developers work in teams to plan, design, produce, debug, and maintai
 * Work with visual designers to **create 2D and 3D visuals models** and game assets
 * **Testing and debugging** a game using automated testing tools
 * Create **new features and continuously improving the game**. This may include adding add-ons, game packs, and updates. 
+
 ---
 ### Required Education
 Video game developers commonly require a bachelor’s degree in game development, computer science, or game design. Through a undergraduate degree, video game designers should become proficient in some programming languages such as java, C# or C++. A master’s degree in these areas can help video game developers stand out and advance to lead developer positions. 
@@ -180,3 +183,6 @@ Grant, Anthony, and Anthony Grant (41 Articles Published) “The 10 Best Beginne
 Pocket Pinata Interactive, Junior Game Designer, [ca.indeed.com/Junior-Game-Developer-jobs?vjk=8d9312408e44c864](https://ca.indeed.com/Junior-Game-Developer-jobs?vjk=8d9312408e44c864).
 
 Star Fort Games, Senior Game Developer, [ca.indeed.com/jobs?q=junior%20Game%20Programmer&l=ON&vjk=bf36771ec07787ed](https://ca.indeed.com/jobs?q=junior%20Game%20Programmer&l=ON&vjk=bf36771ec07787ed). 
+
+## Images Works Cited
+
