@@ -82,16 +82,17 @@ Video game developers commonly require a bachelor’s degree in game development
 * Tic Tac Toe Game
 
 ### Competitions
-* University of Waterloo CCC (Canadian Computing Competition)
-* ACM International Collegiate Programming Contest (ICPC)
-* Microsoft Q# Coding Contest
+* [University of Waterloo CCC (Canadian Computing Competition)](https://www.cemc.uwaterloo.ca/contests/computing.html)
+* [ACM International Collegiate Programming Contest (ICPC)](https://icpc.global/)
+* [Microsoft Q# Coding Contest](https://codeforces.com/msqs2020
+)
 
 ### Internships and Job Shadowing Opportunities
-* Game Developer Intern - Scientific Games 
-* Game Design Intern - Rocket League 
-* Programming Intern - Obsidian Entertainment 
+* [Game Developer Intern - Scientific Games](https://www.indeed.com/q-Game-Developer-Intern-jobs.html?vjk=d82fbe6befabe4fa)
+* [Game Design Intern - Rocket League](https://www.indeed.com/q-Game-Developer-Intern-jobs.html?vjk=1496034775edf02f)
+* [Programming Intern - Obsidian Entertainment](https://www.indeed.com/q-Game-Developer-Intern-jobs.html?vjk=a0d8bdd81c35c87c)
 
 ### Building Up Non-technical Skills
-* Collaboration Workshop for Product Design and Development
-* Tutoring opportunities 
+* [Collaboration Workshop for Product Design and Development](https://www.oreilly.com/attend/leading-collaborative-workshops-for-product-design-development/0636920128557/0636920166245/)
+* [Tutoring opportunities](https://www.workopolis.com/jobsearch/tutor-jobs/markham-ontario?job=vQCa3z63uOIJ4g74cZtojdqf6rG8oUcxLOEWXkgtuK1dvLffackx5Q)
 * Many Universities offer leadership, collaboration, and project management workshops for free to students!
