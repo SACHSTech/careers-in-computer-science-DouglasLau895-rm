@@ -42,12 +42,17 @@ Video game developers commonly require a bachelor’s degree in game development
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png" width="150">
 
 **Prerequisites**
+
 * Six Grade 12 U and/or M courses including: 
-  * Advanced Functions (MHF4U)
-  * Calculus and Vectors (MCV4U)
-  * Any Grade 12 U English (ENG4U or EWC4U)
-  * One other 4U course of choice
-  * Two other 4U or 4M courses
+
+|Course Name                      |Course Code   |
+|:-------------------------------:|:------------:|
+|Advanced Functions               |MHF4U         |
+|Calculus and Vectors             |MCV4U         |
+|Any Grade 12 English             |ENG4U or EWC4U|
+|One other 4U course of choice    |N/A           |
+|Two other 4U/4M courses of choice|N/A           |
+
 * Recommended: Grade 11 U Introduction to Computer Science (ICS3U)
 
 ---
@@ -79,7 +84,7 @@ Video game developers commonly require a bachelor’s degree in game development
 **`4 years + 2 years co-op`**
 
 ---
-## Experiential Learning
+## 1.3 Experiential Learning
 <img src="https://gradepowerlearning.com/wp-content/uploads/2015/10/icon-memory-retention.png" width="150">
 
 ### Self-Starter Projects
