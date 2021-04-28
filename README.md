@@ -76,7 +76,7 @@ Video game developers commonly require a bachelor’s degree in game development
 ---
 **Length Of Time Required For This Program**
 
-**`4 years`**
+**`4 years + 2 years co-op`**
 
 ---
 ## Experiential Learning
