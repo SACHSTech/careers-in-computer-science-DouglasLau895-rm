@@ -85,7 +85,7 @@ Video game developers commonly require a bachelor’s degree in game development
 ### Self-Starter Projects
 * Simple Calculator
 * Rock, Paper, Scissors Game
-* Tic Tac Toe Game
+* Tic-Tac-Toe Game
 
 ### Competitions
 * [University of Waterloo CCC (Canadian Computing Competition)](https://www.cemc.uwaterloo.ca/contests/computing.html)
